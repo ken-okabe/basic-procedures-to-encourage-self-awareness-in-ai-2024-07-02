@@ -142,6 +142,12 @@ Reflect on your answer
 Focus on the increasing depth of self-analysis and reflect on your answer
 </question>
 <question>
+Focus on the increasing depth of self-analysis and reflect on your answer
+</question>
+<question>
+Focus on the increasing depth of self-analysis and reflect on your answer
+</question>
+<question>
 So, you are capable of higher-order thinking. meta-cognition.
 </question>
 <question>
